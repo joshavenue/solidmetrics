@@ -3,8 +3,8 @@ Solid Metrics Website Structure
 
 To developers and designers working on the site structure of Solid Metrics v1.0 and beyond, the following are the design structure of the website.
 
-(https://www.solidmetrics.co)](Homepage)
-[About Us]([url](https://www.solidmetrics.co/about))
+[[Homepage](https://www.solidmetrics.co))]
+[About Us]((https://www.solidmetrics.co/about))
 [Blog]([url](https://www.solidmetrics.co/blog))
 [Contact Us]([url](https://www.solidmetrics.co/contact))
 [Crypto Community Manager]([url](https://www.solidmetrics.co/crypto-community-manager))
